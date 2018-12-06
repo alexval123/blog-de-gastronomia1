@@ -1,0 +1,15 @@
+body{
+  background-image: url(https://presupuestos.com/blog/wp-content/uploads/decoracion-cocinas.jpg);
+  background-size: 100% auto;
+  background-position:center;
+  background-attachment: fixed;
+  color: white;
+}
+.grid-container{
+  background-color: rgba(52, 88, 248, 0.5);
+}
+.cabezera-titulo{
+  border: 2px 0px 0px 3px;
+  border-color: white;
+  border-style: solid;
+}
