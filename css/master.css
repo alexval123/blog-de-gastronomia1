@@ -9,7 +9,14 @@ body{
   background-color: rgba(52, 88, 248, 0.5);
 }
 .cabezera-titulo{
-  border: 2px 0px 0px 3px;
-  border-color: white;
-  border-style: solid;
+  border: solid white;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+}
+.textoblanco{
+  color: white;
+}
+.contorno{
+  border:1.5px solid white;
 }
